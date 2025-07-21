@@ -8,8 +8,8 @@
 
 ### ✨ Sobre mí
 
-- 🎓 Estudio **TSU en Desarrollo de Software Multiplataforma** en la Universidad Tecnológica de Xicotepec de Juárez.
-- 📘 Completé mi **estadía profesional** documentando sistemas digitales en EDEGA América Latina.
+- 🎓 Estudio **Ingenieria en Desarrollo y Gestion de Software** en la Universidad Tecnológica de Xicotepec de Juárez.
+- 📘 Completé mi **estadía profesional**  de TSU documentando sistemas digitales en EDEGA América Latina.
 - 🧠 Me encanta aprender nuevas tecnologías y participar en proyectos reales.
 - 🚀 Apasionada por el desarrollo de aplicaciones web y móviles orientadas a la salud y servicios.
 
