@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Carolina Arias Reyes</h1>
 
 <p align="center">
-💻 Estudiante de TI | 📍 Xicotepec, Puebla | 🌟 Apasionada por el desarrollo web y la documentación técnica
+💻 Estudiante de TI | 📍 Xicotepec, Puebla | 🌟 Apasionada por el desarrollo web y el diseño!
 </p>
 
 ---
